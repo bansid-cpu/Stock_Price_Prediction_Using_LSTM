@@ -1,4 +1,4 @@
 # Stock_Price_Prediction_Using_LSTM
+![Dash - Google Chrome 2021-08-15 11-18-02](https://user-images.githubusercontent.com/63785291/129483601-57a43cda-4f34-4f16-aa45-27f616ad16e2.gif)
 
-https://user-images.githubusercontent.com/63785291/129482018-ce686d95-4efa-4131-883d-491c3d5e1fc7.mp4
 
