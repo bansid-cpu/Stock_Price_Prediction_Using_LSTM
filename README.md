@@ -1,4 +1,4 @@
 # Stock_Price_Prediction_Using_LSTM
 
-https://user-images.githubusercontent.com/63785291/129481874-4215adf0-02a0-49fa-9aa1-980ef7f76844.mp4
+https://user-images.githubusercontent.com/63785291/129482018-ce686d95-4efa-4131-883d-491c3d5e1fc7.mp4
 
